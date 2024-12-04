@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629602509914",
+    "project_id": "meuappflutter-firebase",
+    "storage_bucket": "meuappflutter-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629602509914:android:079a6d44b18626e5432463",
+        "android_client_info": {
+          "package_name": "com.cursodioflutter.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAwIerNAQ-pC2PLfRl3jkQ-XqBwDnA-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
